@@ -21,4 +21,4 @@ End Sub
 
 ## Diagrama de flujo
 
-<img src="img/driagrama.png" width="1000">
+<img src="img/driagramadeflujo.png" width="1000">
