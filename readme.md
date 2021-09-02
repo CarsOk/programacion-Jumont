@@ -19,6 +19,6 @@ End Sub
 <img src="img/imgt.png" width="1000">
 
 
-# Diagrama de flujo
+## Diagrama de flujo
 
-<img src="img/driagrama.jpg" width="1000">
+<img src="img/driagrama.png" width="1000">
