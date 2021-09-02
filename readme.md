@@ -19,4 +19,4 @@ End Sub
 <img src="img/imgt.png" width="500">
 
 
-<img src="img/driagramadeflujo.png" width="500">
+<img src="img/flujo.png" width="500">
