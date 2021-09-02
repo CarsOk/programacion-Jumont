@@ -16,7 +16,7 @@ Sub ejemplo()
 End Sub
 
 ```
-<img src="img/imgt.png" width="1000">
+<img src="img/imgt.png" width="500">
 
 
-<img src="img/driagramadeflujo.png" width="700">
+<img src="img/driagramadeflujo.png" width="500">
