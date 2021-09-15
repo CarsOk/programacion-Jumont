@@ -51,7 +51,7 @@ End Sub
 
 
 
-<img src="img/promedio.png" width="500">
+<img src="img/porcentaje.png" width="500">
 
 
 
