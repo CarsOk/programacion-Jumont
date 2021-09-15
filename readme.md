@@ -25,7 +25,7 @@ End Sub
 
 
 
-#Clase septiembre 9 del 2021
+# Clase septiembre 9 del 2021
 
 ## Conocimientos sobre la clase de hoy
 
@@ -48,7 +48,11 @@ End Sub
 
 ```
 
+
+
+
 <img src="img/promedio.png" width="500">
+
 
 
 <img src="img/flujoporcentaje.png" width="500">
