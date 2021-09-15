@@ -22,7 +22,13 @@ End Sub
 <img src="img/flujo.png" width="500">
 
 
+
+
+
 #Clase septiembre 9 del 2021
+
+## Conocimientos sobre la clase de hoy
+
 Aprendimos en día de hoy sobre como crear un programa que nos de el porcentaje de varios números
 
 ## Ejercicio de excel
@@ -42,7 +48,7 @@ End Sub
 
 ```
 
-<img src="img/promedio.jpg" width="500">
+<img src="img/promedio.png" width="500">
 
 
-<img src="img/flujoporcentaje" width="500">
+<img src="img/flujoporcentaje.png" width="500">
